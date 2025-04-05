@@ -1,0 +1,5 @@
+with open('my_notes.txt', 'w') as file:
+    file.write("Nota 1: Hola mi Nombre es Sheyla Cedeño tengo 19 años de edad, vivo actualmente en la Ciudad de Lago Agrio
+estoy estudiando la Universidad Estatal Amazonica en la carrera Tecnologia de la Informacion y en la Universidad Estatal de Bolivar en la carrera Marketing Digital,
+tengo un hobbie jugar futbol, salir con mi familia de paseo y me gusta ser carismatica y responsable con mis estudios..\n")
+
